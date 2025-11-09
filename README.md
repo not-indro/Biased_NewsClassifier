@@ -48,8 +48,8 @@ Source: Kaggle
 ## Installation
 
 ```bash
-git clone https://github.com/not-indro/Media_BiasClassifier.git
-cd Media_BiasClassifier
+git clone https://github.com/not-indro/Biased_NewsClassifier.git
+cd Biased_NewsClassifier
 ```
 
 (Recommended) Create a virtual environment:
