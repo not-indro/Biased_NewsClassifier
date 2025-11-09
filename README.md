@@ -159,12 +159,3 @@ MIT License. See `LICENSE` for details.
 If you find this project useful, please give it a ⭐ on GitHub!
 
 ---
-
-### ✅ Let me know if you'd like:
-
-* a **minimalist version**
-* a **more visual / emoji-enhanced version**
-* a **resume-ready project write-up**
-* a **Hugging Face model card format**
-
-Happy to tailor it further!
