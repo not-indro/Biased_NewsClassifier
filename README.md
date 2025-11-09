@@ -1,4 +1,4 @@
-# Biased News Classifier
+# Biased Media Classifier
 
 A machine-learning system to detect and visualize linguistic bias in short text (news headlines, tweets, editorials).
 Built using a fine-tuned **DistilBERT** model, with an interactive **Streamlit** dashboard and optional **NewsAPI** integration for live news analysis.
@@ -7,7 +7,7 @@ Built using a fine-tuned **DistilBERT** model, with an interactive **Streamlit**
 
 ## Overview
 
-The Biased News Classifier predicts bias on a graded scale — from strongly biased to strongly unbiased — and provides an intuitive visual interpretation of results.
+The Biased Media Classifier predicts bias on a graded scale — from strongly biased to strongly unbiased — and provides an intuitive visual interpretation of results.
 
 Key components include:
 
@@ -48,8 +48,8 @@ Source: Kaggle
 ## Installation
 
 ```bash
-git clone https://github.com/not-indro/Biased_NewsClassifier.git
-cd Biased_NewsClassifier
+git clone https://github.com/not-indro/Biased_MediaClassifier.git
+cd Biased_MediaClassifier
 ```
 
 (Recommended) Create a virtual environment:
