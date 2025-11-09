@@ -1,4 +1,4 @@
-# Media Bias Classifier
+# Biased News Classifier
 
 A machine-learning system to detect and visualize linguistic bias in short text (news headlines, tweets, editorials).
 Built using a fine-tuned **DistilBERT** model, with an interactive **Streamlit** dashboard and optional **NewsAPI** integration for live news analysis.
@@ -7,7 +7,7 @@ Built using a fine-tuned **DistilBERT** model, with an interactive **Streamlit**
 
 ## Overview
 
-The Media Bias Classifier predicts bias on a graded scale — from strongly biased to strongly unbiased — and provides an intuitive visual interpretation of results.
+The Biased News Classifier predicts bias on a graded scale — from strongly biased to strongly unbiased — and provides an intuitive visual interpretation of results.
 
 Key components include:
 
