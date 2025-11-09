@@ -25,7 +25,7 @@ Key components include:
 
 * Bias detection for short-form News
 * Live headline fetch & real-time classification
-* Bias score visualization
+* Bias score visualisation
 * Model performance dashboard & metrics
 * Works offline (local inference) if needed
 
@@ -112,7 +112,7 @@ Open in browser:
 | F1-Weighted | 0.72  |
 
 **Model:** DistilBERT
-**Optimizer:** AdamW
+**Optimiser:** AdamW
 **Learning Rate:** 2e-5
 **Epochs:** 4
 
@@ -123,7 +123,7 @@ Open in browser:
 | Section        | Description                           |
 | -------------- | ------------------------------------- |
 | Live News      | Fetch & classify trending headlines   |
-| Text Input     | Analyze custom text                   |
+| Text Input     | Analyse custom text                   |
 | Model Insights | Performance metrics, config, examples |
 
 ---
