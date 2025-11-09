@@ -1,8 +1,3 @@
-# app.py — Media Bias Classifier (MBC)
-# Tabs: 📰 Live News | 🔎 Classify | 📊 About / Results
-# Requires: .streamlit/secrets.toml with NEWSAPI_KEY="..."
-# Model: Hugging Face Hub (override via sidebar if needed)
-
 import os
 import requests
 import streamlit as st
